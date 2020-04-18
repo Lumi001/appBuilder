@@ -1,0 +1,25 @@
+.loader{
+    margin: auto;
+    width: 300px;
+    height: 100px;
+    border: 0.5px dashed #C9D3DE;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.loader #myBar{
+    padding: 0px 0px 0px 20px;
+    font-family: "Cerebri Sans";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 13px;
+    width: 250px;
+}
+.loader h5{
+    line-height: 2px;
+}
+.bk{
+    background: #F7FAFC;
+    width: 50%;
+    height: 100%;
+}
