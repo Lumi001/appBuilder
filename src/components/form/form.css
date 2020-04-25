@@ -24,7 +24,7 @@
     line-height: 13px;
     color: #4A5568;;
   }
-  input[type=text]{
+  .form input[type=text]{
       color: yellow;
       padding: 5px 5px 5px 5px;
       color: #4A5568;;

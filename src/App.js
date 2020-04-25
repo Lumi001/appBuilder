@@ -6,10 +6,11 @@ import Res from './components/res/Res'
 import Pad from './components/pad/Pad'
 import Upload from './components/upload/Upload'
 import Loader from './components/loader/Loader'
+import Orien from './components/orien/Orien'
 
 function App() {
   return (
-    <Loader/>
+    <Orien/>
     // <Upload/>
     // <Pad/>
   //  <Res/>
