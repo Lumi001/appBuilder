@@ -10,15 +10,15 @@ function Orien() {
             <p>Orientation type</p>
             <div className="orien-flex">
 
-               <div className="con"> 
-               <label for="horizontal"><img src={h} alt="" /></label>
-               <input type="text" id="horizontal" name="horizontal" placeholder="Horizontal"/>
-                </div>
+               <button className="con"> 
+               <img src={h} alt="" />
+                Horizontal
+                </button>
 
-                <div className="con">
-                <label for="vertival"><img src={v} alt="" /></label>
-                <input type="text" id="vertical" name="vertical" placeholder="Vertical"/>
-                </div>
+                <button className="con1">
+                    <img src={v} alt="" />
+                    Vertical
+                </button>
             </div>
         </div>
     )

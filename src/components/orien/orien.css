@@ -26,28 +26,23 @@
     grid-template-columns: 40% 40%;
 }
 .con{
-    display: grid;
-    grid-template-columns: 30% 70%;
-    justify-content: center;
-    align-items: center;
     border: 1px solid #A0AEC0;
     box-sizing: border-box;
     border-radius: 2px;
-    margin: 8px 16px 0px 0px;
-    width: 78px;
+    margin: 8px 0px 0px 0px;
+    width: 90px;
     height: 24px;
 }
-.con input{
-    outline: none;
-    border: none;
-    border-left: 1px solid #A0AEC0;
-    padding: 2px
+.con1{
+    border: 1px solid #A0AEC0;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin: 8px 0px 0px 11px;
+    width: 90px;
+    height: 24px;
 }
-.con img{
+.con img, .con1 img{
     width: 13px;
     height: 11px;
-    margin: 4px;
-}
-.con label{
-border: black;
+    margin-right: 3px;
 }
